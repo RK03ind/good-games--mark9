@@ -71,11 +71,6 @@ const App = () => {
       rating: "8.5",
     },
     {
-      title: "Outlast Series",
-      genre: "horror",
-      rating: "7.8",
-    },
-    {
       title: "Resident Evil 7: Biohazard",
       genre: "horror",
       rating: "7.7",
